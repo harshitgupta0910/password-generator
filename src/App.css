@@ -1,12 +1,10 @@
 input[type="checkbox"] {
   accent-color: #ff009d80; /* Change to your desired color */
 }
-
 input[type="range"] {
   accent-color: teal; /* Change to your desired color */
 }
 
-/* App.css */
 #root {
   max-width: 1280px;
   /* margin: 0 auto; 
