@@ -6,6 +6,8 @@ input[type="range"] {
   accent-color: teal; /* Change to your desired color */
   
 }
+/* input[type="range"] {
+  accent-color: teal; /* Change to your desired color */
 
 #root {
   max-width: 1280px;
