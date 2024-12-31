@@ -11,7 +11,6 @@ function App() {
   const [darkMode, setDarkMode] = useState(true); // For Dark Mode Toggle
 
   const passRef = useRef(null);
-
   const passGen = useCallback(() => {
     let Password = '';
     let str = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
