@@ -75,7 +75,7 @@ function App() {
                 onChange={() => setDarkMode(!darkMode)}
               />
               <div
-                className={`block bg-gray-600 w-14 h-8 rounded-full ${
+                className={`block bg-asdf w-14 h-8 rounded-full ${
                   darkMode ? 'bg-asdf' : 'bg-green-600'
                 }`}
               ></div>
