@@ -44,6 +44,7 @@ function App() {
     if (/\d/.test(password)) strengthScore++;
     if (/[!#$%&()*+,-./:;<=>?@[\\^_|}{~]/.test(password)) strengthScore++;
 
+    
     setStrength(strengthScore);
   }, []);
 
